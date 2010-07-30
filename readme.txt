@@ -12,7 +12,7 @@ Create and manage custom content types from the back-end of WordPress
 
 Custom Content Types is a plugin designed to allow WordPress administrators to create and utilize the power of custom post types within WordPress. Now with the release of WordPress 3.0 it is possible to create more than just posts and pages, developers can define their own content types with their own options and custom taxonomies. These powerful features allow WordPress to be more than just blogging software but a content rich, user-friendly CMS. Now you can define products for an ecommerce site or books for keeping inventory, the possibilities are endless. 
 
-This plugin also integrates with the **WordPress Reusables** plugin.
+This plugin also integrates with the [WordPress Reusables](http://wordpress.org/extend/plugins/reusables) plugin.
 
 
 == Installation ==
