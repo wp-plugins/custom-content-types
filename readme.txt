@@ -1,4 +1,4 @@
-=== WordPress Reusables ===
+=== Custom Content Types ===
 Contributors: ooeygui
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25WYW3FP76G2U
 Tags: cms, custom, content, type, management, manage, post, page, plugin, sidebar
