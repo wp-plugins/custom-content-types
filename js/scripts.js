@@ -1,4 +1,4 @@
-function delete_reus(id, name){
+function delete_cct(id, name){
 
 	conf = window.confirm("Are you sure you want to delete this content type?\n\n"+name);
 	

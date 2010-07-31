@@ -70,6 +70,7 @@
     
     <ul>
         <li><a href="http://codex.wordpress.org/The_Loop" target="_blank">The Loop</a></li>
+        <li><a href="http://codex.wordpress.org/Template_Hierarchy">Template Heirarchy</a></li>
         <li><a href="http://codex.wordpress.org/Custom_Taxonomies#Custom_Taxonomies" target="_blank">Custom Taxonomies</a></li>
         <li><a href="http://codex.wordpress.org/Template_Tags/query_posts" target="_blank">query_posts()</a></li>
     </ul>
