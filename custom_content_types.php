@@ -3,7 +3,7 @@
 Plugin Name: Custom Content Types
 Plugin URI: http://www.ooeygui.net
 Description: Create and manage custom content types and custom fields for posts.
-Version: 1.0.1
+Version: 1.0.2
 Author: Ian Whitcomb
 Author URI: http://www.ooeygui.net
 */

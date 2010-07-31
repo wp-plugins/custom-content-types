@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: cms, custom, content, type, management, manage, post, page, plugin, sidebar
 Requires at least: 3.0
 Tested up to: 3.0.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Create and manage custom content types from the back-end of WordPress
 
@@ -39,5 +39,5 @@ This plugin also integrates with the [WordPress Reusables](http://wordpress.org/
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-Fixing a bug in the javascript and adding more on the about page.
+= 1.0.2 =
+Fixing a bug in the javascript.

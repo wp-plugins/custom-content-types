@@ -172,7 +172,7 @@ if($message){
 				?><tr class="alternate">
 			   <th class="check-column" scope="row"><input type="checkbox" value="<?=$cct->name;?>" name="cb_cct[]"></th>
 				<td class="name column-name"><strong><a href="admin.php?page=<?=$content_types->directory;?>/cct&f=single&name=<?=$cct->name;?>" class="row-name"><?=$cct->label_plural;?></a></strong>
-				<div class="row-actions"><span class="edit"><a href="admin.php?page=<?=$content_types->directory;?>/cct&f=single&name=<?=$cct->name;?>">Edit</a> | </span><span class="trash"><a href="javascript:delete_cct(<?=$cct->name;?>,'<?=$cct->label_plural;?>')">Delete</a></span></div></td>
+				<div class="row-actions"><span class="edit"><a href="admin.php?page=<?=$content_types->directory;?>/cct&f=single&name=<?=$cct->name;?>">Edit</a> | </span><span class="trash"><a href="javascript:delete_cct('<?=$cct->name;?>','<?=$cct->label_plural;?>')">Delete</a></span></div></td>
                 <td class="description column-description"><?=$cct->description;?></td>
                 <td class="slug column-slug"><?=$cct->name;?></td>
 				</tr><?
